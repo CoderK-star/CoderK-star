@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**CoderK-star/CoderK-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+こんにちは！CoderK-starです。理系の大学生で、インフラエンジニアを目指しています。
 
-Here are some ideas to get you started:
+普段はバックエンド系のアプリ開発をしていますが、たまにフロントエンドをやったりします。ー React, TypeScript, Tailwindなど
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Figmaもちょっと触ったりしています
+
+メインの目標として、Docker、AWS、Linuxなどを学習してインフラやセキュリティの仕事をやりたいなと思っています。
+
+---
+## 技術スタック
+- Html/css, React, Typescript, JS
+- Python, Docker
+- Codex, Claude Code, Github Copilot
+
+---
+## 趣味・特技
+- ❤️‍🩹アニメ鑑賞、ゲーム
+- 🐈猫が好き
+- 📚英語が得意（TOEIC 650)
+- 📈過程を楽しむ
